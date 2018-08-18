@@ -5,4 +5,5 @@ public class Test1 {
 	// Test commit
 
 	// Amend commit
+	//Show committer details and change id
 }
